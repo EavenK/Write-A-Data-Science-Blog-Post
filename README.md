@@ -34,7 +34,7 @@ For this project, I'm interested to explore the effectiveness of Full Lockdown i
 1. What are the major actions taken by different Country in the world in dealing with Covid-19?
 2. Which country implemented Full Lockdown and which does not?
 3. Why Italy and Spain have high accumulated confirmed cases even with Full Lockdown?
-4. Is Full Lockdown help in flattening the curve from the exponential spike of Covid?
+4. Is Full Lockdown help in flattening the curve from the spike of Covid?
 5. How about countries that do not implement Full Lockdown?
 
 ## File Descriptions <a name="files"></a>

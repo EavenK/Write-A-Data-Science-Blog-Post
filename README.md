@@ -43,7 +43,7 @@ The Covid19_Blogpost.ipynb notebook available here contained the data analysis p
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@eavenkhaw).
+The main findings of the code can be found at the post available [here](https://medium.com/@eavenkhaw/write-a-data-science-blog-post-b574e36b5c19).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
